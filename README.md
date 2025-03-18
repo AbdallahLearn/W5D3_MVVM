@@ -38,3 +38,7 @@ git clone https://github.com/AbdallahLearn/W5D3_MVVM.git
 ### Build and Run
 - Build the project and run it on an **emulator** or **physical device**
 
+![WhatsApp Image 2025-03-18 at 13 38 41_0a840e15](https://github.com/user-attachments/assets/9094ce7c-dc1e-4b3e-a57d-29057d270b26)
+
+![WhatsApp Image 2025-03-18 at 13 38 41_c485b4ab](https://github.com/user-attachments/assets/37154f87-a544-4f5c-b7fd-ebae282d17f2)
+
